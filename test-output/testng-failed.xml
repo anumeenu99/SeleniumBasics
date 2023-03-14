@@ -6,7 +6,7 @@
       <class name="SeleniumBasicCommands.SeleniumCommands">
         <methods>
           <include name="setUp"/>
-          <include name="TC_015_verifyWebElementCommands"/>
+          <include name="TC_025_verifyTextInAFrame"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- SeleniumBasicCommands.SeleniumCommands -->

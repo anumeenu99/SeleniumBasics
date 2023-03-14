@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="18" total="19" passed="1">
+<testng-results skipped="0" failed="0" ignored="31" total="32" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8369" started-at="2023-03-06T20:01:38 IST" finished-at="2023-03-06T20:01:47 IST">
+  <suite name="Default suite" duration-ms="13613" started-at="2023-03-13T20:51:44 IST" finished-at="2023-03-13T20:51:58 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8369" started-at="2023-03-06T20:01:38 IST" finished-at="2023-03-06T20:01:47 IST">
+    <test name="Default test" duration-ms="13613" started-at="2023-03-13T20:51:44 IST" finished-at="2023-03-13T20:51:58 IST">
       <class name="SeleniumBasicCommands.SeleniumCommands">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="setUp" is-config="true" duration-ms="5444" started-at="2023-03-06T20:01:38 IST" finished-at="2023-03-06T20:01:44 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="setUp" is-config="true" duration-ms="7457" started-at="2023-03-13T20:51:44 IST" finished-at="2023-03-13T20:51:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TC_018_verifyIsEnabled()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="TC_018_verifyIsEnabled" duration-ms="2835" started-at="2023-03-06T20:01:44 IST" finished-at="2023-03-06T20:01:47 IST">
+        <test-method status="PASS" signature="TC_031_verifyDragableItems()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="TC_031_verifyDragableItems" duration-ms="4914" started-at="2023-03-13T20:51:52 IST" finished-at="2023-03-13T20:51:57 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_018_verifyIsEnabled -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-03-06T20:01:47 IST" finished-at="2023-03-06T20:01:47 IST">
+        </test-method> <!-- TC_031_verifyDragableItems -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumBasicCommands.SeleniumCommands@cb51256]" name="tearDown" is-config="true" duration-ms="1190" started-at="2023-03-13T20:51:57 IST" finished-at="2023-03-13T20:51:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
